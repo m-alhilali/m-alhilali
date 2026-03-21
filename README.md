@@ -23,8 +23,7 @@ I am currently following the **Programming Advices** roadmap by Dr. Mohammed Abu
 
 ### 📂 Featured Projects
 * **Bank Management System (C++):** A comprehensive system with encryption, transaction logging, and multiple management screens.
-* **Pizza Order System (C#):** A WinForms application demonstrating UI/UX design and logic separation.
-
+* [Bank Management System](https://github.com/m-alhilali/Bank-Project)
 ---
 
 ### 📫 Connect with me:
