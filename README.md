@@ -7,7 +7,7 @@ I am a passionate Computer Science student at Taiz University, focused on buildi
 
 ### 🛠️ Technical Skills
 
-* **Languages:** C++, C#,
+* **Languages:** C++, C#,SQL Server,
 * **Frameworks & Technologies:** .NET, Windows Forms (WinForms)
 * **Concepts:** OOP, Data Structures, Algorithms, Database Management
 * **Tools:** Visual Studio, Git & GitHub
@@ -16,7 +16,7 @@ I am a passionate Computer Science student at Taiz University, focused on buildi
 
 ### 📈 My Roadmap & Learning Journey
 I am currently following the **Programming Advices** roadmap by Dr. Mohammed Abu-Hadhoud.
-* 🔭 **Currently working on:** Advanced C# and .NET projects.
+* 🔭 **Currently working on:** Advanced C# and .NET projects And SQL Server.
 * 🎯 **Goal:** To become a Professional Software Engineer specializing in Back-End Development.
 
 ---
