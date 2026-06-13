@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=41B883&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mohammed+Al-Hilali;Back-End+Developer;C%2B%2B+%2F+C%23+Aspiring;Logic-First+Thinker;Problem+Solver" />
 </p>
 
+<!-- عداد زوار الملف الشخصي الكامل -->
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm-alhilali&count_bg=%2341B883&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" />
+</p>
+
 
 ### 🚀 Computer Science Student & Back-End Developer
 I am a passionate Computer Science student at Taiz University, focused on building robust and scalable back-end solutions. I follow a structured architectural approach in my projects, emphasizing clean code and Object-Oriented Programming (OOP) principles.
@@ -26,14 +31,17 @@ I am a passionate Computer Science student at Taiz University, focused on buildi
 
 ### 📈 My Roadmap & Learning Journey
 I am currently following the **Programming Advices** roadmap by Dr. Mohammed Abu-Hadhoud.
-* 🔭 **Currently working on:** Advanced C# and .NET projects And SQL Server.
+* 🔭 **Learned:** C++, C#, SQL Server, and ADO.NET. Currently working on developing my skills in SQL Server & ADO.NET.
 * 🎯 **Goal:** To become a Professional Software Engineer specializing in Back-End Development.
 
 ---
 
 ### 📂 Featured Projects
 * **Bank Management System (C++):** A comprehensive system with encryption, transaction logging, and multiple management screens.
-* [Bank Management System](https://github.com/m-alhilali/Bank-Project)
+* [Bank Management System](https://github.com/m-alhilali/Bank-Project) 
+<!-- عداد زوار هذا المشروع تحديداً -->
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm-alhilali%2FBank-Project&count_bg=%2300599C&title_bg=%23555555&icon=&title=Project+Views&edge_flat=false" />
+
 ---
 
 ### 📫 Connect with me:
@@ -47,4 +55,3 @@ I am currently following the **Programming Advices** roadmap by Dr. Mohammed Abu
   <img src="https://github-readme-stats.vercel.app/api?username=m-alhilali&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-alhilali&layout=compact&theme=tokyonight&border_radius=10" alt="Languages" />
 </p>
-
